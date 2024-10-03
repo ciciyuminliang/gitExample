@@ -1,2 +1,3 @@
+role,NetID,LastName,FirstName
 boss,myu259,Yu,Minliang
 employee,rchen394,chen,ruijing
